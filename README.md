@@ -23,3 +23,7 @@ Each question comes with a countdown timer (default: 10 seconds), which adds a t
 The interface is minimalist, clean, and mobile-responsive. Buttons are styled for accessibility and hover effects are included to enhance interactivity. Visual consistency is maintained using reusable CSS classes and intuitive layout structure. The app is fully responsive and adapts well to both desktop and mobile screens.
 
 ### OUTPUT
+
+<img width="1101" height="779" alt="Image" src="https://github.com/user-attachments/assets/5c56dd46-3aa3-4a1b-b342-afa1710d55e8" />
+<img width="1056" height="775" alt="Image" src="https://github.com/user-attachments/assets/bf7fdc75-d7d7-46df-8e6d-2f8899c23423" />
+<img width="1130" height="917" alt="Image" src="https://github.com/user-attachments/assets/288a8e1c-8551-49c8-bdc0-393c2e5570e8" />
