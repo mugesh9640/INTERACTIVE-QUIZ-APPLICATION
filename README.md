@@ -41,7 +41,7 @@
 
 1️. Clone the Repository
 
-git clone https://github.com/your-username/frontend-quiz-app.git
+git clone https://github.com/mugesh9640/INTERACTIVE-QUIZ-APPLICATION.git
 cd frontend-quiz-app
 
 2️. Add the questions.json File
