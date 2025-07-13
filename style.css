@@ -1,0 +1,93 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f0f0;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+.quiz-container {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px 30px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  width: 450px;
+  text-align: center;
+  overflow-y: auto;
+  max-height: 90vh;
+}
+#progress-bar-container {
+  background-color: #e0e0e0;
+  width: 100%;
+  height: 10px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+#progress-bar {
+  background-color: #007bff;
+  height: 100%;
+  width: 0%;
+  transition: width 0.3s;
+}
+#timer {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.btn-grid {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+button:hover {
+  background-color: #0056b3;
+}
+button.correct {
+  background-color: #28a745;
+}
+button.wrong {
+  background-color: #dc3545;
+}
+button.next-btn {
+  margin-top: 20px;
+  display: none;
+}
+.hide {
+  display: none;
+}
+#review-container {
+  text-align: left;
+  margin-top: 20px;
+}
+#review-list {
+  list-style: none;
+  padding: 0;
+  max-height: 300px;
+  overflow-y: auto;
+}
+#review-list li {
+  margin-bottom: 10px;
+  padding: 10px;
+  background: #f4f4f4;
+  border-left: 5px solid #007bff;
+  border-radius: 5px;
+}
+.correct-answer {
+  color: green;
+  font-weight: bold;
+}
+.wrong-answer {
+  color: red;
+  font-weight: bold;
+}
