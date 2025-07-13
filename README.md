@@ -1,5 +1,15 @@
-#INTERACTIVE-QUIZ-APPLICATION
+INTERACTIVE-QUIZ-APPLICATION
+COMPANY: CODTECH IT SOLUTIONS
 
+NAME: DIPALI
+
+INTERN ID: CT04DF1379
+
+DOMAIN: FRONT END DEVELOPMENT
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
   Welcome to the Frontend Quiz Application! This project is a fully functional, interactive quiz app built using HTML, CSS, and JavaScript. It allows users to answer multiple-choice questions and provides instant feedback, score tracking, high score saving, and answer review after submission.
 
 #Features
