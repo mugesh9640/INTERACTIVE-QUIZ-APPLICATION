@@ -22,4 +22,4 @@ Each question comes with a countdown timer (default: 10 seconds), which adds a t
 
 The interface is minimalist, clean, and mobile-responsive. Buttons are styled for accessibility and hover effects are included to enhance interactivity. Visual consistency is maintained using reusable CSS classes and intuitive layout structure. The app is fully responsive and adapts well to both desktop and mobile screens.
 
-##OUTPUT
+### OUTPUT
